@@ -5,7 +5,7 @@
         "name": "redhat-openjdk18-openshift"
     },
     "spec": {
-        "dockerImageRepository": "fabric8/java-alpine-openjdk8-jdk",
+        "dockerImageRepository": "fabric8/java-centos-openjdk11-jdk",
         "tags": [
             {
                 "name": "1.0",
